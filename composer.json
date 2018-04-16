@@ -15,7 +15,7 @@
     "survey"
   ],
   "require": {
-    "symfony/console": "3.3.*"
+    "symfony/console": "*"
   },
   "bin": ["bin/omr"],
   "require-dev": {
